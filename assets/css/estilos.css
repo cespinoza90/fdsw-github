@@ -37,3 +37,10 @@ body {
   }
 
 }
+
+.titulonombre {
+  /*border: solid red 1px;*/
+  color: whitesmoke;
+  opacity: 80%;
+  margin: 6px;
+}
